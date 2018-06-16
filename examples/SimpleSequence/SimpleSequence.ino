@@ -1,6 +1,9 @@
 #include <RomeoMotor.h>
 
 /*
+5~23v power source to VIN & GND pins.
+PWM 0-255
+
 For V1 use pins:
 	E1 = 6;	Motor 1 Speed Control
 	E2 = 9;  Motor 2 Speed Control
@@ -12,6 +15,7 @@ For V2 use pins:
 	E2 = 6;  Motor 2 Speed Control
 	M1 = 4;  Motor 1 Direction Control
 	M2 = 7;  Motor 2 Direction Control
+	
 */
 
 // Creates instance of RomeoMotor called Motor.
