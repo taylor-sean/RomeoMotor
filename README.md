@@ -16,7 +16,7 @@ Creating an instance of 'RomeoMotor' called 'Motor'.
 
 Motor.Advance(127)
 
-Calls the function 'Advance' which will run both motor 1 and 2 at the maximum of the motor supply voltage '127'
+Calls the function 'Advance' (substitute for other directions as needed) which will run both motor 1 and 2 at the maximum of the motor supply voltage '127'
 
 Example:
 
